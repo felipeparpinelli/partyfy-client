@@ -16,6 +16,7 @@ Project to learn and improve my skills in:
 
 - Start the server `npm start`
 - Open browser at [Localhost](http://localhost:8080)
+- Follow the instructions to run the backend service: `https://github.com/felipeparpinelli/partyfy-server`
 
 * You can view the project up and running on [AWS](http://ec2-34-205-81-9.compute-1.amazonaws.com:8080)
 
