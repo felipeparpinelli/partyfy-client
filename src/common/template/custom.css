@@ -1,0 +1,88 @@
+.skin-blue .main-header .navbar {
+    background-color: #21252A;
+}
+
+.skin-blue .main-header .logo {
+    background-color: #21252A;
+}
+
+.skin-blue .main-sidebar {
+    background-color: #282828;
+}
+
+.content-wrapper {
+    background-color: #282828;
+}
+
+.main-footer {
+    position: fixed;
+    bottom: 0px;
+    border-top-width: 0px;
+    width: 100%;
+    background-color: #282828;
+}
+
+.table {
+    color: #A1AEB4;
+
+}
+
+.sidebar-menu-title h3 {
+    color: #D5D7D7;
+    text-align: center;
+}
+
+.playlist-content {
+    background-color: #282828;
+    width: 50%;
+    height: 100%;
+    float:left;
+    padding-right: 20px;
+    padding-right: 10px;
+    color: #D5D7D7;
+}
+
+.collaborative-playlist-content {
+    background-color: #282828;
+    width: 50%;
+    height: 100%;
+    float:right;
+    color: #D5D7D7;
+}
+
+.navbar-btn {
+    float:right;
+    padding-right: 10%;
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #21252A;
+    border-width: 0px;
+    outline: none;
+}
+
+.login {
+    color: #A1AEB4;
+    background-color: #21252A;
+}
+
+.user-name {
+  float:right;
+  padding-right: 10%;
+  color: #FFFFFF;
+  padding-top: 5px;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th,
+.table>tfoot>tr>td, .table>tfoot>tr>th,
+.table>thead>tr>td, .table>thead>tr>th
+{
+  vertical-align: middle;
+}
+
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background-color: #282828;
+}
+
+body {
+    background-color: #282828;
+}
