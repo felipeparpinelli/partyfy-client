@@ -9,7 +9,7 @@ Project to learn and improve my skills in:
 
 ## Install
 
-- Clone `git clone https://github.com/felipeparpinelli/partyfy-client`
+- Clone `git clone https://github.com/felipeparpinelli/partyfy-client.git`
 - Install dependencies`npm install`
 
 ## Running
