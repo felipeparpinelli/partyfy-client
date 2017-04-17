@@ -25,3 +25,6 @@ Project to learn and improve my skills in:
 - Create websocket between client and server - collaborativePlaylist
 - Create a music search
 - User be able to create parties
+
+## Snapshots
+![alt tag](https://github.com/felipeparpinelli/partyfy-client/blob/master/public/img/screenshot.png)
